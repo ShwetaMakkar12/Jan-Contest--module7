@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+img {
+    width: 25px;
+}
+
+.positive {
+    color: #76ff15;
+    font-weight: 500
+}
+.negative {
+    color: #f91f1f;
+    font-weight: 500;
+}
+
+
+.table-group-divider {
+    border-top: none;
+}
